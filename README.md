@@ -1,92 +1,57 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:0f0f1a&height=200&section=header&text=Gilles%20GMS&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=120&section=header"/>
 </p>
 
-<h1 align="center">👋 Fala aí! Eu sou o Gilles Studart</h1>
+<h2 align="center">Gilles Studart</h2>
 
 <p align="center">
-🎨 Designer | 🖌️ Artista | 🎬 Editor de Vídeo
+Designer • Artista • Editor
 </p>
 
 ---
-
-## ✨ Sobre mim
-
-💡 Transformo ideias em arte  
-🎨 Criação de logos e identidade visual  
-🖌️ Artes digitais  
-🎬 Edição de vídeos criativos  
-
----
-
-## 🛠️ Ferramentas
 
 <p align="center">
-  
-![Canva](https://img.shields.io/badge/Canva-Design-blue?logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-Editing-001e36?logo=adobephotoshop&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-Video-black)
-
+🎨 Logos • 🖌️ Artes • 🎬 Vídeos
 </p>
 
 ---
 
-## 🚀 O que eu faço
-
-- 🎨 Logos profissionais  
-- 🖌️ Artes personalizadas  
-- 📱 Design para redes sociais  
-- 🎬 Edição de vídeos (CapCut)
-
----
-
-## 📊 GitHub Stats
+## 🛠️
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=radical"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GillesGMS&layout=compact&theme=radical"/>
-</p>
+<img src="https://img.shields.io/badge/Canva-8B0000?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-8B0000?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-8B0000?style=for-the-badge&logoColor=white"/>
 
----
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GillesGMS&theme=react-dark"/>
 </p>
 
 ---
 
-## 📫 Contato
+## 📊
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GillesGMS&show_icons=true&theme=transparent&title_color=ff0000&text_color=ffffff&icon_color=ff0000"/>
+</p>
+
+---
+
+## 📫
 
 <p align="center">
 
 <a href="https://www.instagram.com/gilesstudart?igsh=MXRsOXc5a2RjZXhrag==">
-  <img src="https://img.shields.io/badge/Instagram-Gilles%20Studart-pink?logo=instagram&logoColor=white"/>
+  <img src="instagram.png" width="45px"/>
 </a>
 
 <a href="mailto:contatogillesstudart@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-red?logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💼 Freelance
-
-💸 Aberto para trabalhos!  
-📩 Me chama no Instagram ou email
-
----
-
 <p align="center">
-✨ Obrigado por visitar meu perfil ✨
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,100:6a0dad&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=80&section=footer"/>
 </p>
